@@ -1,4 +1,4 @@
-package com.cyanogenmod.samsungservicemode;
+package org.lineageos.samsungservicemode;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

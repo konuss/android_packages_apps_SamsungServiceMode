@@ -1,4 +1,4 @@
-package com.cyanogenmod.samsungservicemode;
+package org.lineageos.samsungservicemode;
 
 import android.app.Activity;
 import android.app.AlertDialog;
